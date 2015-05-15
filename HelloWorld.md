@@ -1,3 +1,1 @@
-# Heading
-## Secondary Heading
-### Sub Heading
+## This is a markdown file
