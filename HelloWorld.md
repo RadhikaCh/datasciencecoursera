@@ -1,2 +1,3 @@
-## This ia a Heading
+# Heading
+## Secondary Heading
 ### Sub Heading
